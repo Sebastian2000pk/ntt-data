@@ -1,0 +1,32 @@
+.container-information {
+  display: flex;
+  height: 100%;
+}
+.title-information {
+  color: rgb(0, 12, 51);
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.container-content {
+  background-color: #fff;
+  width: 80%;
+  max-width: 500px;
+  border-radius: 8px;
+  margin: auto;
+  padding: 2rem;
+}
+.container-items {
+  display: flex;
+}
+.content {
+  color: rgb(0, 31, 134);
+  font-size: 1.5rem;
+}
+.item {
+  width: 50%;
+}
+.container-button-back {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: end;
+}

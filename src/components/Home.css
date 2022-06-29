@@ -1,0 +1,21 @@
+.container-home {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.container-inputs {
+  background-color: #fff;
+  width: 80%;
+  margin: auto;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 450px;
+}
+.container-button {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+.button-primary {
+  width: 12rem;
+}

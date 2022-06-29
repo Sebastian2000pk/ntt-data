@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Juan",
+    "lastname": "Ochoa",
+    "documentType": "cc",
+    "document": 1000137231
+  },
+  {
+    "name": "Carlos",
+    "lastname": "Perez",
+    "documentType": "cc",
+    "document": 1987361456
+  },
+  {
+    "name": "Pedro",
+    "lastname": "Torres",
+    "documentType": "passport",
+    "document": 1003788909
+  },
+  {
+    "name": "Fermanda",
+    "lastname": "Florez",
+    "documentType": "passport",
+    "document": 1005655489
+  }
+]
